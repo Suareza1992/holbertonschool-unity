@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+This directory contains everything related to Unity.
+
+Author: Ángel Suárez (suarezangel.se@gmail.com)(suareza1992)
+=======
 Unity - Unity Concepts
 
 Resources
@@ -140,3 +145,4 @@ Directory: unity_concepts
 File: unity_concepts/Assets/Scenes/6-tags.unity, unity_concepts/Assets/Prefabs/Ball.prefab
 
 Author: Ángel Suárez (suarezangel.se@gmail.com)(Suareza1992)
+>>>>>>> 80001a43 (Initial commit)
