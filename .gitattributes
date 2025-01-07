@@ -3,3 +3,5 @@
 *.png filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 *.dll filter=lfs diff=lfs merge=lfs -text
+unity_concepts/Library/PackageCache/com.unity.burst/.Runtime/libburst-llvm-16.dylib filter=lfs diff=lfs merge=lfs -text
+unity_concepts/Library/PackageCache/com.unity.burst/.Runtime/hostmac/dsymutil filter=lfs diff=lfs merge=lfs -text
